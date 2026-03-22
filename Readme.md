@@ -69,16 +69,27 @@ A base foi escolhida por conter informações sólidas e relevantes para anális
 -------------------------------------------------------------------------
 
 Planejamento do Projeto
+
 O projeto está sendo desenvolvido seguindo um fluxo estruturado de etapas, conforme descrito abaixo:
+
 •	Definição do tema
+
 •	Entendimento de negócio
+
 •	Definição dos objetivos do projeto
+
 •	Escolha da base de dados
+
 •	Limpeza e tratamento dos dados
+
 •	Análise exploratória dos dados
+
 •	Definição das métricas e indicadores
+
 •	Transformação dos dados
+
 •	Desenvolvimento das visualizações
+
 •	Construção do dashboard final
 
 -------------------------------------------------------------------------
