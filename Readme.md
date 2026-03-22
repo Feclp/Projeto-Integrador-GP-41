@@ -26,6 +26,8 @@ produto.
 A partir da análise desses dados será desenvolvido um dashboard interativo em Python
 permitindo identificar padrões de vendas, comportamento de compra e oportunidades
 de otimização para maior asserção do marketing.
+
+
 2. Problema de Negócio
 Empresas de e-commerce precisam entender:
 • Quais tipos de produtos têm maior demanda por região
@@ -37,22 +39,27 @@ clara.
 Sem análise de dados, decisões de marketing e estoque podem ser tomadas sem base
 analítica, reduzindo eficiência operacional e possivelmente acarretando gastos
 desnecessários.
+
+
 3. Objetivos da Análise
 A análise exploratória terá os seguintes objetivos principais:
-1️ - Identificar categorias de produtos mais vendidas por região
+
+1 - Identificar categorias de produtos mais vendidas por região
 Objetivo: Direcionar estratégias de marketing e campanhas promocionais específicas
 para cada região.
 Exemplo de análise:
 Região Categoria mais vendida
 Norte America Books
 Asia Eletronics
+
 2 - Identificar métodos de pagamento predominantes por região
 Objetivo: Entender preferências de pagamento para otimizar estratégias comerciais.
 Exemplo de análise:
 Região Método mais utilizado
 North America Credit Card
 Asia Debit Card
-3️ - Identificar períodos com maior volume de vendas
+
+3 - Identificar períodos com maior volume de vendas
 Objetivo: Detectar períodos sazonais de compras para orientar campanhas de
 marketing tornando-as mais assertivas.
 Possíveis análises:
@@ -60,12 +67,14 @@ Possíveis análises:
 • Vendas por trimestre
 • Vendas semestrais
 • Vendas Anuais
-4️ - Calcular o total de vendas por região
+
+4 - Calcular o total de vendas por região
 Objetivo:
 Identificar os mercados mais fortes e com maior potencial de crescimento.
 Exemplo de métrica:
 Total de Vendas na Ásia: $1.000.000,00
 Total de Vendas na América do Norte: $500.000,00
+
 4. Métricas do Dashboard
 Para o dashboard funcionar bem, é recomendado trabalhar com 5 a 8 métricas
 principais evitando a poluição de informações, porém não deixando informações
