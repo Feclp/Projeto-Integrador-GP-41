@@ -4,11 +4,16 @@ de Dados
 
 Colaboradores -
 
-Felipe Alencar
+Felipe Alencar 
+
 Leandro 
+
 Alison Dias 
+
 Iago Faria 
+
 Ivan Campos
+
 Marcio Hatz 
 
 
