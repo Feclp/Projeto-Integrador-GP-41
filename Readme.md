@@ -18,7 +18,6 @@ Integrantes:
 
 •	Marcio Ricardo Hatzlhoffer Correia Filho 
 
-•	Pedro Henrique de Freitas Menezes 
 
 -------------------------------------------------------------------------
 
@@ -122,13 +121,21 @@ Demais membros :  Definição das métricas, visualizações e tratamentos
 -------------------------------------------------------------------------
 
 Transformações que pretendemos realizar
+
 As transformações foram definidas com base nas necessidades das métricas e visualizações propostas para o dashboard. Entre as principais transformações previstas estão:
+
 •	Tratamento de valores nulos
+
 •	Padronização de colunas e textos 
+
 •	Conversão de tipos de dados
+
 •	Remoção de duplicatas
+
 •	Agrupamento de dados
+
 •	Criação de novas colunas (feature engineering)
+
 •	Cálculo de métricas derivadas (ex: ticket médio) 
 
 -------------------------------------------------------------------------
