@@ -3,6 +3,7 @@ DOCUMENTAÇÃO DO PROJETO INTEGRADOR – DESENVOLVIMENTO LOW CODE EM CIÊNCIA DE
 Tema do Projeto: Dashboard Estratégico de Vendas para Marketing
 
 Integrantes:
+
 •	Alison Moretto Dias 
 
 •	Caetano Araujo Mina 
